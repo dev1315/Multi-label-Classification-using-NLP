@@ -6,9 +6,17 @@
 
 * This project includes feature engineering like finding pattern for assesing the labels like Word count, Specific symbols, no of unique words used.
 * It also includes text cleaning like removing \n ,expanding contractions, punctuations, numbers, extra whitespaces and stop words.
-<font size ='4'>**Performing Stemming**</font>
-* We could also have used lemmatization but SnowballStemmer generalises words more efficiently by transforming words with roughly the same semantics to one standard form.
-* Their are 2 methods for lemmatization using spacy's .lemma_ or WordNetLemmatizer
-* For this problem we are using SnowballStemmer because its more advanced and takes less computational time as compared to PorterStemmer 
-* 
-* I have tried using different libraries
+* I have used different types of multilabel classifiers and compared their over all performance.
+
+* **For this project i have tried using different libraries**
+* Numpy
+* Pandas
+* Seaborn
+* Matplotlib
+* Textstat
+* NLTK
+* Spacy
+* Re
+* WordCloud
+* Scikit-Learn
+* Scikit-multiLearn
