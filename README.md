@@ -17,7 +17,6 @@
 * NLTK
 * Spacy
 * Re
-* Spellchecker
 * WordCloud
 * Scikit-Learn
 * Scikit-multiLearn
