@@ -11,16 +11,16 @@
 * I have used different types of multilabel classifiers and compared their over all performance.
 
 * **For this project i have tried using different libraries**
-* Numpy
-* Pandas
-* Seaborn
-* Matplotlib
-* Textstat
-* NLTK
-* Spacy
-* Re
-* WordCloud
-* Scikit-Learn
-* Scikit-multiLearn
+  * Numpy
+  * Pandas
+  * Seaborn
+  * Matplotlib
+  * Textstat
+  * NLTK
+  * Spacy
+  * Re
+  * WordCloud
+  * Scikit-Learn
+  * Scikit-multiLearn
 
 Can access dataset from here https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data
